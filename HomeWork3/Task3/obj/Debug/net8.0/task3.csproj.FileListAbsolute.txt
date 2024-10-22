@@ -1,0 +1,15 @@
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\bin\Debug\net8.0\task3.exe
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\bin\Debug\net8.0\task3.deps.json
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\bin\Debug\net8.0\task3.runtimeconfig.json
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\bin\Debug\net8.0\task3.dll
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\bin\Debug\net8.0\task3.pdb
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\obj\Debug\net8.0\task3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\obj\Debug\net8.0\task3.AssemblyInfoInputs.cache
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\obj\Debug\net8.0\task3.AssemblyInfo.cs
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\obj\Debug\net8.0\task3.csproj.CoreCompileInputs.cache
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\obj\Debug\net8.0\task3.sourcelink.json
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\obj\Debug\net8.0\task3.dll
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\obj\Debug\net8.0\refint\task3.dll
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\obj\Debug\net8.0\task3.pdb
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\obj\Debug\net8.0\task3.genruntimeconfig.cache
+E:\Учёба\с#\HomeTasks\HomeWork3\task3\obj\Debug\net8.0\ref\task3.dll
