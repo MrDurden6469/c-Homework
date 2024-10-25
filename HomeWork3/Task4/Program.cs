@@ -1,28 +1,33 @@
-﻿int [] array = {-3, 4, 5, -7, -5, 9};
-int index = 0;
-int count = 0;
-while (index != array.Length)
+﻿using System;
+using System.Linq;
+class Program
 {
-    if (0 <= array[index])
-   
-   
-    count++;
-    index++;
-
+    static int[] RemoveNegatives(int[] numbers)
+    {
+        int newSize = 0;
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            if (numbers[i] >= 0)
+            {
+                newSize++;
+            }
+        }
+        int[] newNumbers = new int[newSize];
+        int j = 0;
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            if (numbers[i] >= 0)
+            {
+                newNumbers[j] = numbers[i];
+                j++;
+            }
+        }
+        return newNumbers;
+    }
+    static void Main(string[] args)
+    {
+        int[] numbers = { 5, -3, 9, -1, 2, -7, 0 };// Пример массива
+        int[] result = RemoveNegatives(numbers);
+        Console.WriteLine("[" + string.Join(", ", result) + "]");
+    }
 }
-  int [] NewArray = new int[count];
-  while (index != array.Length)
-{
-    if (0 < array[index])
-   
-   count++;
-   index++;
-   NewArray[count] = array[index];
-   
-}
-Console.Write("[");
-for (int j = 0; j < NewArray.Length; j++)
-{
-    Console.Write($"{NewArray[j]}," );
-}
-Console.Write("]");
